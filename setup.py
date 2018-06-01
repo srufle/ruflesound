@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rufle_sound",
-    version="0.0.2",
+    name="ruflesound",
+    version="0.0.3",
     author="Stephen Rufle",
     author_email="srufle@gmail.com",
     description="An example package",
