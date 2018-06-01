@@ -7,11 +7,11 @@ setuptools.setup(
     name="rufle_sound",
     version="0.0.1",
     author="Stephen Rufle",
-    author_email="srufle@example.com",
+    author_email="srufle@gmail.com",
     description="An example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/srufle/rufle_sound",
+    url="https://github.com/srufle/ruflesound",
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
