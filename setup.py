@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rufle_sound",
-    version="0.0.1",
+    version="0.0.2",
     author="Stephen Rufle",
     author_email="srufle@gmail.com",
     description="An example package",
