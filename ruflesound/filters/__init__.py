@@ -1,1 +1,1 @@
-from .equalizer import equalize
+from .equalizer import *
